@@ -6,10 +6,10 @@
 	<string>retain</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>ClassInterfaceVariables</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, retain) &lt;#valueType#&gt; *&lt;#valueName#&gt;</string>
+	<string>@property (retain, nonatomic) &lt;#valueType#&gt; *&lt;#valueName#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ED811772-1791-4D89-A9DD-5A8BCEDE9A61</string>
 	<key>IDECodeSnippetLanguage</key>

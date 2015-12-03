@@ -9,7 +9,7 @@
 		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) id&lt;&lt;#delegateName#&gt;&gt;&lt;#valueName#&gt;;</string>
+	<string>@property (weak, nonatomic) id&lt;&lt;#delegateName#&gt;&gt;&lt;#valueName#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E721AB97-84E0-4EE0-AEE6-278BA0033D70</string>
 	<key>IDECodeSnippetLanguage</key>
